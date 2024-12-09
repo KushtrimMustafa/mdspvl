@@ -1,6 +1,6 @@
 # This is a preexam (pvl) for the course Modern Distributed Systems at the HfT
 
-## In this Project are Kushtrim Mustafa and Chun-Yu contributing. 
+## In this Project are Kushtrim Mustafa and Chun-Yu Kang contributing. 
 
 ## We are using Laravel in the Backend and Vue / React for the Frontend
 
